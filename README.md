@@ -1,7 +1,7 @@
 # bit-wear
 
 Hello everybody,
-This is my first time experimenting with coding
+This is my first time experimenting with coding.
 
-your favorite noob,
+Your favorite noob,
 Jim Dale
