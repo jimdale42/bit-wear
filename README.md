@@ -1,6 +1,6 @@
 # bit-wear
 
-Hello everybody,
+Hello Everybody,
 This is my first time experimenting with coding.
 
 Your favorite noob,
